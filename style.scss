@@ -77,12 +77,18 @@ header {
   height: 520px;
   text-align: center;
 
+  h2 {
+    font-size: 30px
+  }
+
   .gopremium-icons {
   @include flex-center;
-  gap: 30px;
+  gap: 200px;
+  
 
     img {
     height: 150px;
+    margin-top: 30px;
     }
   }
 
