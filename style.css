@@ -75,4 +75,9 @@ header nav a {
 #footer {
   background-color: #000;
   height: 200px;
+}
+#footer span {
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */

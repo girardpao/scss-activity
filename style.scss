@@ -91,4 +91,10 @@ header {
 #footer {
   background-color: $dark;
   height: 200px;
+
+  span {
+    font-size: 25px;
+    font-weight: 700;
+    color: $light;
+  }
 }
