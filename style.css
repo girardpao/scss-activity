@@ -1,0 +1,73 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 300px;
+  background-color: #000;
+}
+header span {
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+}
+header nav a {
+  margin: 0 20px;
+  text-decoration: none;
+  color: #fff;
+}
+
+#hero {
+  background-color: #b02897;
+  height: 470px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#hero .hero-container {
+  max-width: 1000px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#hero .hero-container h1 {
+  color: #fff;
+  font-size: 35px;
+}
+#hero .hero-container p {
+  color: #fff;
+}
+#hero .hero-container img {
+  height: 420px;
+}
+#hero .hero-container button {
+  border-radius: 50px;
+}
+
+#go-premium {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 520px;
+  text-align: center;
+}
+#go-premium .gopremium-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+#go-premium .gopremium-icons img {
+  height: 150px;
+}
+
+#footer {
+  background-color: #000;
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */
