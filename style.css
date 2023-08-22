@@ -43,11 +43,16 @@ header nav a {
 #hero .hero-container p {
   color: #fff;
 }
+#hero .hero-container .individual-plan {
+  font-size: 10px;
+  margin-top: 30px;
+}
 #hero .hero-container img {
   height: 420px;
 }
 #hero .hero-container button {
   border-radius: 50px;
+  margin-top: 30px;
 }
 
 #go-premium {
