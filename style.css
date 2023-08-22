@@ -84,4 +84,8 @@ header nav a {
   font-size: 25px;
   font-weight: 700;
   color: #fff;
+}
+#footer ul {
+  color: #fff;
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
